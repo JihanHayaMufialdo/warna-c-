@@ -1,4 +1,5 @@
 //CONTOH
-system(“color 01”);
 
+system(“color 01”);
+// KETERANGAN
 Kode pertama 0 adalah warna background, dan kode ke dua 1 adalah warna text, jadi dalam kode diatas adalah kode background hitam dan tex biru.
